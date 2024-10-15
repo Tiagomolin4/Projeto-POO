@@ -1,0 +1,197 @@
+{
+    "alunos": [
+        {
+            "nome": "Maicon Antonio",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Felipe Jansen",
+            "dataNascimento": "02/02/2004",
+            "cpf": "1234567891234",
+            "email": "felipe@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "outro objetivo treinamento",
+            "plano": "plano 2"
+        },
+        {
+            "nome": "Tiago Molin",
+            "dataNascimento": "01/01/2004",
+            "cpf": "1234567891234",
+            "email": "tiago@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "mais um objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 4",
+            "dataNascimento": "04/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 5",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 6",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 7",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 8",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 9",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        },
+        {
+            "nome": "Aluno 10",
+            "dataNascimento": "03/03/2004",
+            "cpf": "1234567891234",
+            "email": "maicon@gmail.com",
+            "nrTelefone": "47999991111",
+            "peso": "10",
+            "altura": "10",
+            "objetivoTreinamento": "algum objetivo treinamento",
+            "plano": "plano 1"
+        }
+    ],
+
+    "instrutores": [
+        {
+            "nome": "Jose Silva",
+            "dataNascimento": "06/06/1996",
+            "cpf": "1234567891234",
+            "email": "jose.silva@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Musculacao"
+        },
+        {
+            "nome": "Pedro Pereira",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 3",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 4",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 5",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 6",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 7",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 8",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 9",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        },
+        {
+            "nome": "Instrutor 10",
+            "dataNascimento": "07/07/1997",
+            "cpf": "1234567891234",
+            "email": "pedro.pereira@gmail.com",
+            "nrTelefone": "47999991111",
+            "areaAtuacao": "Fisioterapia"
+        }
+    ]
+}
